@@ -1,17 +1,17 @@
-# Let's write the highly professional, beautifully formatted, and badge-optimized README.md 
-# for the Runtime Security & SIEM Monitoring project on Rocky Linux.
 
-readme_runtime_content = """# 🦩 Runtime Security Monitoring & Incident Response on Enterprise Linux
+ for the Runtime Security & SIEM Monitoring project on Rocky Linux.
 
-This repository showcases a highly tactical implementation of **Runtime Security Monitoring** and live attack incident detection inside an Enterprise Linux environment (**Rocky Linux/AlmaLinux**). By intercepting deep system anomalies during the active lifecycle of a container, we demonstrate how to detect threat vector movements, prevent exploitation, and achieve automated log aggregation.
+readme_runtime_content Runtime Security Monitoring & Incident Response on Enterprise Linu
+
+This repository showcases a highly tactical implementation of Runtime Security Monitoring and live attack incident detection inside an Enterprise Linux environment (**Rocky Linux/AlmaLinux). By intercepting deep system anomalies during the active lifecycle of a container, we demonstrate how to detect threat vector movements, prevent exploitation, and achieve automated log aggregation.
 
 ---
 
-## 🛠️ Tech Stack & Architecture Tools
+ 🛠️ Tech Stack & Architecture Tools
 
 The core technology stack implemented to simulate, monitor, and defend the enterprise ecosystem:
 
-### ⚙️ Operating Systems & Shell
+⚙️ Operating Systems & Shell
 * ![Rocky Linux](https://img.shields.io/badge/Rocky_Linux-10B981?style=for-the-badge&logo=rockylinux&logoColor=white)
 * ![AlmaLinux](https://img.shields.io/badge/AlmaLinux-D42029?style=for-the-badge&logo=almalinux&logoColor=white)
 * ![Bash Shell](https://img.shields.io/badge/Bash_Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
