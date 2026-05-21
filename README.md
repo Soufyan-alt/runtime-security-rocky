@@ -20,12 +20,8 @@ The core technology stack implemented to simulate, monitor, and defend the enter
 * ![Docker Containers](https://img.shields.io/badge/Docker_Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 * ![Falco Engine](https://img.shields.io/badge/Falco_CNCF-00A6C4?style=for-the-badge&logo=falco&logoColor=white)
 
-📊 SIEM & Threat Auditing
-* ![Wazuh SIEM](https://img.shields.io/badge/Wazuh_SIEM-00A4EF?style=for-the-badge&logo=wazuh&logoColor=white)
-* ![Network Auditing](https://img.shields.io/badge/Ncat_Auditing
--1A1F2C?style=for-the-badge&logo=wireshark&logoColor=cyan)
 
----
+
 
 🎯 DevSecOps Methodologies Implemented
 
